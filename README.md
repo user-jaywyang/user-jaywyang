@@ -10,7 +10,8 @@ For simplicity, the copy repositories only contain source code that display codi
 <br /> 
 <br /> 
 
-# Repository Guide: <br/> 
+# Repository Guide: <br/> <br /> 
+
 
 ## FA 2024 OOP in Java
  https://github.com/user-jaywyang/JavaOOP2024 <br /> 
