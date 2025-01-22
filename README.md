@@ -7,35 +7,33 @@ Listed below are repositories and projects from my student repository in Northea
 
 For simplicity, the copy repositories only contain source code that display coding ability and mastery of CS subjects.
 
-
-
-
+/n
 
 # Repository Guide:
 
 
 ## FA 2024 OOP in Java
-## https://github.com/user-jaywyang/JavaOOP2024
+ https://github.com/user-jaywyang/JavaOOP2024
 
 ## FA 2024 Tetris in JavaScript
-## https://github.com/user-jaywyang/JavaScriptTetris
+ https://github.com/user-jaywyang/JavaScriptTetris
 
 ## FA 2024 Pokemon Index in JavaScript
-## https://github.com/user-jaywyang/JavaScriptPokemonDex
+ https://github.com/user-jaywyang/JavaScriptPokemonDex
 
 ## SP 2024 Asteroid in C++
-## https://github.com/user-jaywyang/Asteroids
+ https://github.com/user-jaywyang/Asteroids
 
 ## SP 2024 TRON in C++
-## https://github.com/user-jaywyang/Tron
+ https://github.com/user-jaywyang/Tron
 
 ## SP 2024 DoodleJump in C++
-## https://github.com/user-jaywyang/Doodle_Jump
+ https://github.com/user-jaywyang/Doodle_Jump
 
 ## W 2023 Note Application in Python
-## https://github.com/user-jaywyang/Note-Application-Python
+ https://github.com/user-jaywyang/Note-Application-Python
 
 ## FA 2023: Intro to Python 2023
-## https://github.com/user-jaywyang/IntrotoPython2023
+ https://github.com/user-jaywyang/IntrotoPython2023
 
 
