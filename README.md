@@ -15,8 +15,9 @@ For simplicity, the copy repositories only contain source code that display codi
 <br /> 
 
 
-## FA 2024 OOP in Java
+## FA 2024 OOP in Java (Object oriented programming, documentation, testing)
  https://github.com/user-jaywyang/JavaOOP2024 <br /> <br /> 
+ All of the source code show documentation and full coverage testing.
 
 
 ## FA 2024 Tetris in JavaScript
@@ -27,7 +28,7 @@ For simplicity, the copy repositories only contain source code that display codi
  https://github.com/user-jaywyang/JavaScriptPokemonDex <br /> <br /> 
 
 
-## SP 2024 Asteroid in C++
+## SP 2024 Asteroid in C++ 
  https://github.com/user-jaywyang/Asteroids <br /> <br /> 
 
 
@@ -40,10 +41,10 @@ For simplicity, the copy repositories only contain source code that display codi
 
 
 ## W 2023 Note Application in Python
- https://github.com/user-jaywyang/Note-Application-Python <br /><br /> 
+ https://github.com/user-jaywyang/Note-Application-Python <br /> <br /> 
 
 
-## FA 2023: Intro to Python 2023
+## FA 2023: Intro to Python 2023 
  https://github.com/user-jaywyang/IntrotoPython2023
 
 
