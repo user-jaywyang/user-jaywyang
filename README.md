@@ -1,7 +1,7 @@
 # Hi there 👋, Jay here!
 
 Currently a master's Computer Science student at Northeastern's Khoury College.
-Started in the NEU Align Program in 2023
+Started in the NEU Align Program in 2023.
 
 Listed below are repositories and projects from my student repository in Northeastern's Khoury Github (private and closed to public). 
 
@@ -9,7 +9,11 @@ For simplicity, the copy repositories only contain source code that display codi
 
 
 
+
+
 # Repository Guide:
+
+
 ## FA 2024 OOP in Java
 ## https://github.com/user-jaywyang/JavaOOP2024
 
