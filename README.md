@@ -10,7 +10,9 @@ For simplicity, the copy repositories only contain source code that display codi
 <br /> 
 <br /> 
 
-# Repository Guide: <br/> <br /> 
+# Repository Guide: 
+<br /> 
+<br /> 
 
 
 ## FA 2024 OOP in Java
