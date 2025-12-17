@@ -3,9 +3,9 @@
 Currently a master's Computer Science student at Northeastern's Khoury College.
 Started in the NEU Align Program in 2023.
 
-Listed below are repositories and projects from my student repository in Northeastern's Khoury Github (private and closed to public). 
+Listed below are repositories and projects from my student repository in Northeastern's Khoury Github. 
 
-For simplicity, the copy repositories only contain source code that display coding ability and mastery of CS subjects.
+
 
 <br /> 
 <br /> 
