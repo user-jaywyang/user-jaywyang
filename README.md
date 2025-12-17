@@ -3,7 +3,7 @@
 Currently a master's Computer Science student at Northeastern's Khoury College.
 Started in the NEU Align Program in 2023.
 
-Listed below are repositories and projects from my student repository in Northeastern's Khoury Github. 
+Listed below are repositories and projects from my student work in Northeastern's Khoury Github. 
 
 
 
@@ -14,6 +14,15 @@ Listed below are repositories and projects from my student repository in Northea
 <br /> 
 <br /> 
 
+
+## FA 2025 GameBoy Advanced Emulator
+ https://github.com/user-jaywyang/GBA-JScript <br /> <br /> 
+ 
+## SU 2025 Minimal Kernel OS
+ https://github.com/user-jaywyang/small-OS <br /> <br /> 
+ 
+## SP 2025 Dungeons and Dragons SQL-Database
+ https://github.com/user-jaywyang/DnD-SQL-Database <br /> <br /> 
 
 ## FA 2024 OOP in Java (Object oriented programming, documentation, testing)
  https://github.com/user-jaywyang/JavaOOP2024 <br /> <br /> 
